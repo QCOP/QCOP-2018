@@ -1,0 +1,22 @@
+.sponsors-row{
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+.sponsors-title{
+	font-size: 42px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
+}
+.sponsors-text{
+	font-size: 18px;
+}
+.past-sponsors-row{
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.past-sponsors-img{
+	display: inline-block;
+	max-height: 150px;
+	padding:15px 15px;
+}
