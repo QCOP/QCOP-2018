@@ -1,2 +1,1 @@
-# QCOP-2018
-The Queen's Conference on Philanthropy website for 2017-2018
+# QCOP-2017-Website
