@@ -3,10 +3,10 @@
 }
 .top-row{
 	padding-top: 150px;
-	padding-bottom: 160px;
+	padding-bottom: 170px;
 }
 .top-logo{
-	height: 100px;
+	height: 125px;
 }
 .top-title{
 	font-family: 'Roboto Condensed', sans-serif;
@@ -23,7 +23,7 @@
 }
 .apply-btn{
 	padding-right: 35px;
-	padding-left: 35px;
+	padding-left: 30px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 
