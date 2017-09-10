@@ -1,5 +1,7 @@
 .footer-wrapper{
 	background-color: #2e2e2e;
+    width: 100%;
+    padding-left: 0px;
 }
 .footer-row{
 	padding-top: 30px;
