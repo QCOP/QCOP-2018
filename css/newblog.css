@@ -75,6 +75,10 @@ body {
   background: url("http://i63.tinypic.com/214623n.jpg") center no-repeat;
   background-size: cover;
 }
+.blog-card .photo.photo11 {
+  background: url("http://i66.tinypic.com/1zf703.jpg") center no-repeat;
+  background-size: cover;
+}
 .blog-card .details {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
